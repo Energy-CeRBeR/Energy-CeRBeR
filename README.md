@@ -29,7 +29,8 @@
 	- Телеграмм-бот: https://github.com/Energy-CeRBeR/SmartWallet_bot
 - Бот-расписание для университета: https://github.com/Energy-CeRBeR/Radik-Lessons-2.0
 - Гагарин-Хакатон - 2024. Старший разработчик, 5 человек в команде.\
- Бот с использованием ИИ YandexGPT для платформы `Код памяти` (https://memorycode.ru/): https://github.com/Energy-CeRBeR/gagarin_bot
+ Бот с использованием ИИ YandexGPT для платформы `Код памяти` (https://memorycode.ru/):\
+ https://github.com/Energy-CeRBeR/gagarin_bot
 
 ### Основной стек ###
 
