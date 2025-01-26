@@ -53,17 +53,6 @@
 
 <h2 style="display: flex; align-items: center;">
   <img 
-    src="https://raw.githubusercontent.com/Energy-CeRBeR/Energy-CeRBeR/refs/heads/edit/assets/projects.gif"
-    align="center"
-    alt="🛠️"
-    style="width: 45px;" 
-  />
-  Pet Projects
-</h2>
-
-
-<h2 style="display: flex; align-items: center;">
-  <img 
     src="https://raw.githubusercontent.com/Energy-CeRBeR/Energy-CeRBeR/refs/heads/edit/assets/feedback_2.gif"
     align="center"
     alt="💬"
@@ -83,6 +72,3 @@
 <img src=https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label= alt=telegram style="margin-bottom: 5px;" />
 </a>  
 </div>
-
-
-
