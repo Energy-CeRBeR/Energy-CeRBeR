@@ -19,6 +19,7 @@
 - Bachelor's student of the 2nd year of [RSREU](https://rsreu.ru/en/) in the field of software engineering
 - I did an internship in C++ development
 - Know algorithms and data structures
+- I am currently interning at [T-Bank](https://www.tbank.ru/) as a Backend Python developer
 
 
 <h2 style="display: flex; align-items: center;">
@@ -40,15 +41,30 @@
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF&label=)
 ![SQLAlchemy](https://img.shields.io/static/v1?style=for-the-badge&message=SQLAlchemy&color=E36002&logo=SQLAlchemy&logoColor=FFFFFF&label=)
+![Pydantic](https://img.shields.io/static/v1?style=for-the-badge&message=Pydantic&color=3776AB&logo=Pydantic&logoColor=FFFFFF&label=)
 ![pytest](https://img.shields.io/static/v1?style=for-the-badge&message=pytest&color=0056B3&logo=pytest&logoColor=FFFFFF&label=)
 ![aiogram](https://img.shields.io/static/v1?style=for-the-badge&message=aiogram&color=29ABE2&logo=Telegram&logoColor=FFFFFF&label=)
+![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC3545&logo=Redis&logoColor=FFFFFF&label=)
+![Celery](https://img.shields.io/static/v1?style=for-the-badge&message=Celery&color=3776AB&logo=Celery&logoColor=FFFFFF&label=)
 
-### DevOps
+### Frontend ###
+
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=000000&label=)
+![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
+
+### DevOps ###
 
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=000000&logo=Linux&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Traefik](https://img.shields.io/static/v1?style=for-the-badge&message=Traefik&color=181717&logo=Traefik&logoColor=00A3C4&label=)
+
+### Version Control ###
+
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC3545&logo=Redis&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=181717&logo=GitLab&logoColor=FC6D26&label=)
 
 
 <h2 style="display: flex; align-items: center;">
