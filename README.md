@@ -39,6 +39,7 @@
 ![C](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 ![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=808080&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF&label=)
 ![SQLAlchemy](https://img.shields.io/static/v1?style=for-the-badge&message=SQLAlchemy&color=E36002&logo=SQLAlchemy&logoColor=FFFFFF&label=)
 ![Pydantic](https://img.shields.io/static/v1?style=for-the-badge&message=Pydantic&color=3776AB&logo=Pydantic&logoColor=FFFFFF&label=)
@@ -57,14 +58,16 @@
 ### DevOps ###
 
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=000000&logo=Linux&logoColor=FFFFFF&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Traefik](https://img.shields.io/static/v1?style=for-the-badge&message=Traefik&color=181717&logo=Traefik&logoColor=00A3C4&label=)
 
-### Version Control ###
+### Team Development ###
 
-![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=181717&logo=GitLab&logoColor=FC6D26&label=)
+![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
 
 
 <h2 style="display: flex; align-items: center;">
