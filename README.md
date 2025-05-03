@@ -69,10 +69,31 @@
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=181717&logo=GitLab&logoColor=FC6D26&label=)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
 
-### Statistic ###
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Energy-CeRBeR&show_icons=true&locale=en&layout=compact" alt="Energy-CeRBeR" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Energy-CeRBeR&show_icons=true&locale=en" alt="Energy-CeRBeR" /></p>
 
+<h2 style="display: flex; align-items: center;">
+  <img 
+    src="https://raw.githubusercontent.com/Energy-CeRBeR/Energy-CeRBeR/refs/heads/edit/assets/feedback_2.gif"
+    align="center"
+    alt="💬"
+    style="width: 45px;" 
+  />
+  Github Stats
+</h2>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; justify-items: center; row-gap: 30px; column-gap: 20px; width: 100%;">
+  <!-- Первая строка - два элемента -->
+  <div>
+    <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Energy-CeRBeR&show_icons=true&locale=en&count_private=true&layout=compact" alt="Energy-CeRBeR" />
+  </div>
+  <div>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Energy-CeRBeR&theme=light&hide_border=false"/>
+  </div>
+  
+  <!-- Вторая строка - один элемент на всю ширину -->
+  <div style="grid-column: span 2; justify-self: center;">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Energy-CeRBeR&show_icons=true&count_private=true&locale=en" alt="Energy-CeRBeR" />
+  </div>
+</div>
 
 <h2 style="display: flex; align-items: center;">
   <img 
