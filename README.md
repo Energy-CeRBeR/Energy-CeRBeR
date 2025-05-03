@@ -69,6 +69,10 @@
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=181717&logo=GitLab&logoColor=FC6D26&label=)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
 
+### Statistic ###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Energy-CeRBeR&show_icons=true&locale=en&layout=compact" alt="Energy-CeRBeR" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Energy-CeRBeR&show_icons=true&locale=en" alt="Energy-CeRBeR" /></p>
+
 
 <h2 style="display: flex; align-items: center;">
   <img 
