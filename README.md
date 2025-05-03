@@ -5,7 +5,7 @@
 
 <h2 style="display: flex; align-items: center;">
   <img 
-    src="https://raw.githubusercontent.com/Energy-CeRBeR/Energy-CeRBeR/refs/heads/edit/assets/me.gif"
+    src="https://raw.githubusercontent.com/Energy-CeRBeR/Energy-CeRBeR/refs/heads/main/assets/me.gif"
     align="center"
     alt="🙈"
     style="width: 45px;" 
@@ -24,7 +24,7 @@
 
 <h2 style="display: flex; align-items: center;">
   <img 
-    src="https://raw.githubusercontent.com/Energy-CeRBeR/Energy-CeRBeR/refs/heads/edit/assets/rocket.gif"
+    src="https://raw.githubusercontent.com/Energy-CeRBeR/Energy-CeRBeR/refs/heads/main/assets/rocket.gif"
     align="center"
     alt="🚀"
     style="width: 45px;" 
@@ -71,7 +71,7 @@
 
 <h2 style="display: flex; align-items: center;">
   <img 
-    src="https://raw.githubusercontent.com/Energy-CeRBeR/Energy-CeRBeR/refs/heads/edit/assets/feedback_2.gif"
+    src="https://raw.githubusercontent.com/Energy-CeRBeR/Energy-CeRBeR/refs/heads/main/assets/feedback_2.gif"
     align="center"
     alt="💬"
     style="width: 45px;" 
@@ -93,7 +93,7 @@
 
 <h2 style="display: flex; align-items: center;">
   <img 
-    src="https://raw.githubusercontent.com/Energy-CeRBeR/Energy-CeRBeR/refs/heads/edit/assets/statistic.gif"
+    src="https://raw.githubusercontent.com/Energy-CeRBeR/Energy-CeRBeR/refs/heads/main/assets/statistic.gif"
     align="center"
     alt="💬"
     style="width: 45px;" 
