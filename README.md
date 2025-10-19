@@ -14,13 +14,12 @@
 </h2>
 
 - Learning programming more 3 years
+- Junior Python Developer at [T-Bank](https://www.tbank.ru/)
 - There are some interesting pet-projects
 - There is a bit of commercial experience
 - Bachelor's student of the 2nd year of [RSREU](https://rsreu.ru/en/) in the field of software engineering
 - I did an internship in C++ development
 - Know algorithms and data structures
-- I am currently interning at [T-Bank](https://www.tbank.ru/) as a Backend Python developer
-
 
 <h2 style="display: flex; align-items: center;">
   <img 
