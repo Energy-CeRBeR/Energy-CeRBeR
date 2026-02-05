@@ -14,7 +14,7 @@
 </h2>
 
 - Learning programming more 4 years
-- Junior+ Python Developer at [T-Bank](https://www.tbank.ru/)
+- Junior Python Developer at [T-Bank](https://www.tbank.ru/)
 - There are some interesting pet-projects
 - Bachelor's student of the 3nd year of [RSREU](https://rsreu.ru/en/) in the field of software engineering
 - I did an internship in C++ development
