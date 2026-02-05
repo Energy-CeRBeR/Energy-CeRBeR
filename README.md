@@ -13,11 +13,10 @@
   About Me
 </h2>
 
-- Learning programming more 3 years
-- Junior Python Developer at [T-Bank](https://www.tbank.ru/)
+- Learning programming more 4 years
+- Junior+ Python Developer at [T-Bank](https://www.tbank.ru/)
 - There are some interesting pet-projects
-- There is a bit of commercial experience
-- Bachelor's student of the 2nd year of [RSREU](https://rsreu.ru/en/) in the field of software engineering
+- Bachelor's student of the 3nd year of [RSREU](https://rsreu.ru/en/) in the field of software engineering
 - I did an internship in C++ development
 - Know algorithms and data structures
 
@@ -42,10 +41,13 @@
 ![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF&label=)
 ![SQLAlchemy](https://img.shields.io/static/v1?style=for-the-badge&message=SQLAlchemy&color=E36002&logo=SQLAlchemy&logoColor=FFFFFF&label=)
 ![Pydantic](https://img.shields.io/static/v1?style=for-the-badge&message=Pydantic&color=3776AB&logo=Pydantic&logoColor=FFFFFF&label=)
-![pytest](https://img.shields.io/static/v1?style=for-the-badge&message=pytest&color=0056B3&logo=pytest&logoColor=FFFFFF&label=)
+![Pytest](https://img.shields.io/static/v1?style=for-the-badge&message=pytest&color=0056B3&logo=pytest&logoColor=FFFFFF&label=)
+![Poetry](https://img.shields.io/static/v1?style=for-the-badge&message=Poetry&color=60A5FA&logo=Poetry&logoColor=FFFFFF&label=)
 ![aiogram](https://img.shields.io/static/v1?style=for-the-badge&message=aiogram&color=29ABE2&logo=Telegram&logoColor=FFFFFF&label=)
 ![Redis](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=DC3545&logo=Redis&logoColor=FFFFFF&label=)
+![Apache Kafka](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Kafka&color=231F20&logo=Apache+Kafka&logoColor=FFFFFF&label=)
 ![Celery](https://img.shields.io/static/v1?style=for-the-badge&message=Celery&color=3776AB&logo=Celery&logoColor=FFFFFF&label=)
+![Temporal](https://img.shields.io/static/v1?style=for-the-badge&message=Temporal&color=7B1FA2&logo=Temporal&logoColor=FFFFFF&label=)
 
 ### Frontend ###
 
@@ -59,6 +61,7 @@
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=000000&logo=Linux&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=000000&logo=GitHub+Actions&logoColor=FFFFFF&label=)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Traefik](https://img.shields.io/static/v1?style=for-the-badge&message=Traefik&color=181717&logo=Traefik&logoColor=00A3C4&label=)
 
@@ -67,6 +70,7 @@
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![GitLab](https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=181717&logo=GitLab&logoColor=FC6D26&label=)
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
+![Agile](https://img.shields.io/static/v1?style=for-the-badge&message=Agile&color=0D8ABC&logo=Agile&logoColor=FFFFFF&label=)
 
 <h2 style="display: flex; align-items: center;">
   <img 
